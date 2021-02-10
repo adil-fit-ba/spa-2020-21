@@ -2,17 +2,29 @@
 C++ code iz predmeta "Strukture i algoritmi podataka" 
 
 Lekcije 2016-17
-1: ATP Lista
-2: ATP Stek
-3: ATP Red
-4: ATP Prioritetni red
-5: Algoritmi sortiranja n^2 (SelectionSort i InsertionSort)
-6: Algoritmi sortiranja n*logn (QuckSort i MergeSort)
-7: Matrica susjedstva
-8: Binary Search Tree (konstrukcija, pretraga) i Binary Tree obilazak
-9: Algoritmi za obilazak grafa (Bfs i Dfs)
-10: Algoritmi najkrace putanje (Dijkstra) 
-11: Algoritmi stabla minimalnog raspona (Prim i Kruskal)
+
+1- ATP Lista
+
+2- ATP Stek
+
+3- ATP Red
+
+4- ATP Prioritetni red
+
+5- Algoritmi sortiranja n^2 (SelectionSort i InsertionSort)
+
+6- Algoritmi sortiranja n*logn (QuckSort i MergeSort)
+
+7- Matrica susjedstva
+
+8- Binary Search Tree (konstrukcija, pretraga) i Binary Tree obilazak
+
+9- Algoritmi za obilazak grafa (Bfs i Dfs)
+
+10- Algoritmi najkrace putanje (Dijkstra) 
+
+11- Algoritmi stabla minimalnog raspona (Prim i Kruskal)
+
 https://www.youtube.com/playlist?list=PLJCjqoTZy0H8cBAswoI5v2Mwui-6a4kte
 
 
