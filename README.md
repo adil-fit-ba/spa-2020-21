@@ -28,6 +28,7 @@ Lekcije 2016-17
 https://www.youtube.com/playlist?list=PLJCjqoTZy0H8cBAswoI5v2Mwui-6a4kte
 
 
+
 Nova lekcija - Heširanje
 https://www.youtube.com/watch?v=8gEa-duZEsc&t=4s
 
